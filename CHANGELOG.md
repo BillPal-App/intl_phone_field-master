@@ -1,58 +1,15 @@
-## [2.1.0] - Added more parameters
+## [0.2.2] - 29th January, 2020
 
-- **Breaking** dropDownArrowIcon and dropDownArrowColor parameters are now replaced by dropDownIcon.
-- Control autovalidateMode of text input added.
-- showCountryFlag param added.
-- textAlignVertical param added.
-- Setting enabled to false disable the dropdown button too.
-- Minor fixes.
+* Downgraded Flutter version to stable channel: Flutter 1.12.13+hotfix.7
 
-## [2.0.1]
+## [0.2.1] - 29th January, 2020
 
-- Update maximum length of phone numbers of several countries.
-- Add dropDownArrowIcon parameter.
+* Upgraded Flutter version upgraded: 1.14.7-pre.19
 
-## [2.0.0] - Null-Safe Compatibility.
+## [0.2.0] - 28th January, 2020
 
-- Package is now null-safe.
-- onCountryChanged param added.
-- Other Fixes.
+* Upgraded Flutter version: 1.12.13+hotfix.5
 
-## [1.4.2] - Improved Documentation.
+## [0.1.0] - 7th August, 2019
 
-- Color change for Dropdown Icon and Dialog is now added.
-
-## [1.4.1] - Improved Documentation.
-
-- More Documentation added for properties.
-
-## [1.4.0] - Bug Fixes and improvements.
-
-- Searchbar label text can be now set.
-- Picker popup bug fixed.
-
-## [1.3.0] - Added more parameters
-
-- Initial Value can now be set.
-- Phone field now returns ISO County code as well in onSaved, onChanged.
-- Minor fixes.
-
-## [1.2.0] - Added more common parameters
-
-- Added some more necessary parameters available for a normal textfield.
-- Minor fixes.
-
-## [1.1.0] - Added Styling Elements
-
-- Added styling of the country selection button.
-- Added support for input formatters.
-- Minor fixes.
-
-## [1.0.1] - Release
-
-- A Basic validator added.
-- Updated README.
-
-## [1.0.0] - Release
-
-- A Custom Phone Input TextFormField.
+* Working version of Pin Code Textfield Editor
