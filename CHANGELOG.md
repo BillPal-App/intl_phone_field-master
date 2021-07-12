@@ -1,15 +1,21 @@
-## [0.2.2] - 29th January, 2020
+## [1.1.1] - 17/05/2021
 
-* Downgraded Flutter version to stable channel: Flutter 1.12.13+hotfix.7
+* Added option to set background/border color using OtpFieldStyle
 
-## [0.2.1] - 29th January, 2020
+## [1.1.0] - 06/03/2021
 
-* Upgraded Flutter version upgraded: 1.14.7-pre.19
+* Added Null-Safety
+* Added Quick paste functionality
 
-## [0.2.0] - 28th January, 2020
+## [1.0.2] - 11/01/2021
 
-* Upgraded Flutter version: 1.12.13+hotfix.5
+* Fixed issue with field style underline not working
 
-## [0.1.0] - 7th August, 2019
+## [1.0.1] - 24/03/2020
 
-* Working version of Pin Code Textfield Editor
+* Added option to set keyboard Type
+
+
+## [1.0.0] - 18/03/2020
+
+* First release of the package
