@@ -47,8 +47,8 @@ class OTPTextField extends StatefulWidget {
   OTPTextField(
       {Key? key,
       this.length = 6,
-      this.width = 60,
-      this.fieldWidth = 10,
+      this.width = 90,
+      this.fieldWidth = 15,
       this.margin: const EdgeInsets.symmetric(horizontal: 3),
       this.otpFieldStyle,
       this.keyboardType = TextInputType.number,
@@ -83,7 +83,7 @@ class _OTPTextFieldState extends State<OTPTextField> {
 
     super.initState();
 
-    _focusNodes = List<FocusNode?>.filled(widget.length, null, growable: false);
+    _focusNodes = List<FocusNode?>.filled(widget.length, null, growable: true);
     _textControllers = List<TextEditingController?>.filled(widget.length, null,
         growable: false);
 
